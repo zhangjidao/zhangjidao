@@ -23,7 +23,7 @@ OrionLib:Init()
 
 local Player = Window:MakeTab({
 	Name = "通用功能",
-	Icon = "rbxassetid://8610328800",
+	Icon = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
 
@@ -97,7 +97,7 @@ Player:AddButton({
 
 local other = Window:MakeTab({
     Name = "位置",
-    Icon = "rbxassetid://8610328800",
+    Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
 
@@ -115,7 +115,7 @@ other:AddToggle({
 
 local Player = Window:MakeTab({
 	Name = "伐木大亨",
-	Icon = "rbxassetid://8610328800",
+	Icon = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
 
@@ -139,7 +139,7 @@ Player:AddButton({
 
 local Player = Window:MakeTab({
 	Name = "精炼厂洞穴",
-	Icon = "rbxassetid://8610328800",
+	Icon = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
 
@@ -155,7 +155,7 @@ loadstring(game:HttpGet([[https://github.com/jsGay8s/RBX_DEV/raw/main/RC_Source.
 
 local Player = Window:MakeTab({
 	Name = "白脚本",
-	Icon = "rbxassetid://8610328800",
+	Icon = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
 
@@ -172,7 +172,7 @@ Player:AddButton({
 OrionLib:MakeNotification({
 	Name = "欢迎使用付费脚本启动器",
 	Content =  "当前游戏ID为:" .. game.GameId .. ".",
-	Image = "rbxassetid://8610328800",
+	Image = "rbxassetid://4483345998",
 	Time = 1
 })
 
