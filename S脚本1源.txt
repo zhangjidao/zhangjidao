@@ -4,7 +4,7 @@ local Window = OrionLib:MakeWindow({Name = "s脚本", HidePremium = false, SaveC
 
 local About = Window:MakeTab({
     Name = "关于",
-    Icon = "rbxassetid://8610328800",
+    Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
 
